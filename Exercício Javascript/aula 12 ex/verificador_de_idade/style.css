@@ -1,0 +1,26 @@
+body{
+    background: rgba(113, 113, 139, 0.774);
+    font: normal 15pt Arial;
+
+}
+header{
+    color:rgb(139, 102, 177);
+    text-align: center;
+
+}
+section{
+    background: white;
+    border-radius: 14px;
+    padding: 15 px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 4px 4pt 10pt rebeccapurple;
+}
+
+footer{
+    text-align: center;
+    color: wheat;
+    font-style: Italic;
+}
+]
+]

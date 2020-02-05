@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Primeiros passos com ODM</title>
+    <meta charset="utf-8">
+
+    <style>
+
+    body{
+      background: cadetblue;
+      color:cornsilk;
+      font: normal 18 pt Arial;
+    }
+      </style>
+
+  </head>
+  <body>
+    <h1>Iniciando estudos com <strong>DOM</strong> em JavaScript</h1>
+    <p>Aqui vai o resultado</p>
+    <div>Clique em mim</div>
+  </body>
+</html>
+
+<script>
+  let corpo = window.document.body
+  let p1 = window.document.getElementsByTagName("p") [1]
+  window.document.write("Está esrito assim:" + (p1.innerText)
+  p1.style.color = "blue"
+  corpo.style.background = 'black'
+  window.alert(p1.innerHTML)
+</script>

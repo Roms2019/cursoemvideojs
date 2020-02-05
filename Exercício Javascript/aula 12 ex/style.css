@@ -1,0 +1,34 @@
+body{
+   
+    
+
+}
+header{
+    color:rgba(255, 255, 255, 0.979);
+    text-align: center;
+
+}
+section{
+    background: white;
+    border-radius: 14px;
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 4px 4pt 10pt rebeccapurple;
+    font: normal 15pt Arial;
+}
+div{
+    text-align: center;
+    padding: 9px;
+}
+
+img{
+    border-radius: 50%;
+    justify-content: center;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    font: normal 10pt Arial;
+}
